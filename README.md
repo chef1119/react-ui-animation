@@ -13,5 +13,5 @@
 
 ## Install
 
-    $ npm install react-simple-animate
+    $ npm install react-ui-animation
 
