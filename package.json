@@ -1,7 +1,7 @@
 {
   "name": "react-ui-animation",
   "version": "3.3.12",
-  "description": "react simple animate",
+  "description": "react ui animation",
   "main": "dist/index.js",
   "keywords": [
     "react",
