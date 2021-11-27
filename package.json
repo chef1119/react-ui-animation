@@ -25,11 +25,10 @@
     "testw": "yarn test -- --watchAll",
     "prepublish": "yarn test && yarn run clean && yarn build"
   },
-  "homepage": "https://react-simple-animate.now.sh",
   "author": "chef",
   "license": "Mit",
   "bugs": {
-    "url": "https://github.com/bluebill1049/react-simple-animate/issues"
+    "url": "https://github.com/chef1119/react-ui-animation/issues"
   },
   "devDependencies": {
     "@types/enzyme": "^3.10.5",
