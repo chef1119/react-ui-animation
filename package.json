@@ -25,7 +25,6 @@
     "testw": "yarn test -- --watchAll",
     "prepublish": "yarn test && yarn run clean && yarn build"
   },
-  "repository": "https://github.com/bluebill1049/react-simple-animation.git",
   "homepage": "https://react-simple-animate.now.sh",
   "author": "chef",
   "license": "Mit",
